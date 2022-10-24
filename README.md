@@ -1,4 +1,15 @@
 # DFTesting
+- Nguyễn Việt Hoàng
+- MSSV: 20020196
+## Bài toán
+Trên một mảnh đất có một khu vực nguy hiểm nơi đặt bẫy mìn của quân đội. Có
+một người bất kì đang đứng tại mảnh đất đó hãy xác định xem người này có đang ở
+trong khu vực nguy hiểm không ? Biết khi chiếu toàn bộ hệ vật lên trục toạ độ đề
+các ta có toàn bộ khu đất là hình chữ nhật được giới hạn bởi 4 đường thẳng
+x = 1, x = 5, y = -2, y = 7 , trong đó khu vực nguy hiểm là hình được giới hạn bới 4
+đường thẳng x = 2, x = 3.5, y = 0, y = 5 và người đang cần xác định là một điểm có
+toạ độ (x,y)
+
 ## CFG
 ![](./src/main/resources/program.png)
 
